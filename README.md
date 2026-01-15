@@ -1,1 +1,3 @@
-"# daraz-assignment.darza-website" 
+I have developed a comprehensive e-commerce web page designed to provide a seamless and modern shopping experience. The project includes a dynamic hero banner with call-to-action, a visually engaging category grid, highlighted featured products with interactive hover effects, and filterable best-selling products. New arrivals and deals of the day are showcased with a countdown timer, while brand logos and customer reviews with ratings add credibility and user engagement.
+
+The design follows a mobile-first approach, featuring responsive grid layouts, touch-friendly navigation, optimized images, and a clear visual hierarchy. Interactive elements, hover effects, and smooth transitions enhance user experience, while a consistent orange-themed color scheme reflects the Daraz branding. Every section is fully responsive and works flawlessly across devices, combining aesthetic appeal with practical functionality.
